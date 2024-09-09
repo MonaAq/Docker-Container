@@ -1,0 +1,3 @@
+if you wanna create an image in docker descktop and get Error : A socket operation encountered a dead network or "net/http: TLS handshake timeout" use 2 command :
+wsl --shutdown
+docker network prune
